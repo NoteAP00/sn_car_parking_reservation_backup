@@ -15,8 +15,7 @@
         <condition/>
         <description/>
         <execute_function>false</execute_function>
-        <filter_condition table="x_1244110_car_park_car_parking_location">parkedGT_FIELDavailable^EQ<item endquery="false" field="parked" goto="false" newquery="false" operator="GT_FIELD" or="false" value="available"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        <filter_condition table="x_1244110_car_park_car_parking_location">parkedGT_FIELDavailable^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter_condition>
         <is_rest>false</is_rest>
         <message><![CDATA[<p>This location parking is full.</p>

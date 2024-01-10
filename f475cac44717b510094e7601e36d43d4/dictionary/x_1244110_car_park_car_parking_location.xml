@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="78574fd847dbf510094e7601e36d4339" label="Car parking location" max_length="40" name="x_1244110_car_park_car_parking_location" type="collection">
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

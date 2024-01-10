@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
-        <group_id display_value="Car parking reservation" name="Car parking reservation">a48a4082475b3510094e7601e36d433f</group_id>
+        <group_id display_value="">a48a4082475b3510094e7601e36d433f</group_id>
         <report_id display_value="Bar on Car parking reservation table by Location">fe652b3e479f3910094e7601e36d4332</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>admin</sys_created_by>

@@ -52,7 +52,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-22 08:40:20</sys_created_on>
-        <sys_id>aba3b505471b3110094e7601e36d431b</sys_id>
         <sys_name>End</sys_name>
         <sys_package display_value="Car parking reservation" source="x_1244110_car_park">f475cac44717b510094e7601e36d43d4</sys_package>
         <sys_policy/>
